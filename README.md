@@ -13,6 +13,5 @@ This repository is created as part of the Lab assignment for version control and
 * Git (Version Control)
 -VS Code (Code Editor)
 -GitHub (Remote Repository)
-* Name: Deepika Vardhan
-* Roll.No : 26203011
+
 
