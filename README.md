@@ -1,13 +1,18 @@
-# Star_Lab_01
+# Star\_Lab\_01
 
 This repository is created as part of the Lab assignment for version control and collaboration using Git and GitHub.
 
 ## Contents
-- Repository initialization and cloning.
-- Tracking changes and managing files (README.md).
+
+* Repository initialization and cloning.
+* Tracking changes and managing files (README.md).
 -Staging, committing, and pushing code to the remote GitHub repository.
 
 ## Tools Used
-- Git (Version Control)
+
+* Git (Version Control)
 -VS Code (Code Editor)
 -GitHub (Remote Repository)
+* Name: Deepika Vardhan
+* Roll.No : 26203011
+
